@@ -1,15 +1,15 @@
 <h2 align="center">
-    ──「 ᴍɪᴄᴋᴇʏ-ᴍᴏᴜsᴇ 」──
+    ──「 𝙳𝚎𝚟𝚒𝚕-𝙷𝚘𝚞𝚜𝚎 」──
 </h2>
 <p align="center">
-  <img src="https://te.legra.ph/file/2ffb5248092481b85e04a.jpg">
+  <img src="https://te.legra.ph/file/25f8b55adb3a93dfa967d.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Devarora-0981/Mickey"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Devilking12/Sona"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h4 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
