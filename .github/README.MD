@@ -1,8 +1,8 @@
 <h2 align="center">
-    ──「 𝙳𝚎𝚟𝚒𝚕-𝙷𝚘𝚞𝚜𝚎 」──
+    ──「 ◄⏤͟͟͞🝛꯭🦋𝗔𝗮𝗿𝘂 𝗖𝗵𝗮𝘁𝗕𝗼𝘁્᭄❁͜͡❁͜͡ ➛ 」──
 </h2>
 <p align="center">
-  <img src="https://te.legra.ph/file/25f8b55adb3a93dfa967d.jpg">
+  <img src="">
 </p>
 
 <h3 align="center">
