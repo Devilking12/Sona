@@ -41,11 +41,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 
 <h2 align="center"> ──「 sᴜᴘᴘᴏʀᴛ 」──</h2>
-<p align="center"><a href="https://t.me/+_8wXoXCar25hM2Q1"> <img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
-<p align="center"><a href="https://t.me/About_Devil_XD"> <img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://t.me/Devil_world_chatting_group"> <img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://t.me/feelings_for_you_baby"> <img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/Devarora-0981/Mickey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Devarora-0981&repo=Mickey&theme=chartreuse-dark"></a>
+<a href="https://github.com/Devilking12/Sona"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Devarora-0981&repo=Mickey&theme=chartreuse-dark"></a>
 
 
 <h3 align="center">──「 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 」──</h3>
