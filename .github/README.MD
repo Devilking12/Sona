@@ -35,9 +35,9 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━
 
-<h2 align="center"> ──「 ᴅᴇᴍᴏ ʀᴏʙᴏᴛ 」──</h2>
+<h2 align="center"> ──「 Music bot 」──</h2>
 <i>ᴀʟʟ ᴛʜᴇ ᴄᴜsᴛᴏᴍɪsᴀᴛɪᴏɴs ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ. ᴊᴜsᴛ ᴄʜᴇᴄᴋᴏᴜᴛ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴠᴀʀɪᴀʙʟᴇs.</i>
-<p align="center"><a href="https://t.me/Royalfamily_afk_bot"> <img src="https://img.shields.io/badge/Check-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
+<p align="center"><a href="https://t.me/Celestial_music_bot"> <img src="https://img.shields.io/badge/Check-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
 
 
 <h2 align="center"> ──「 sᴜᴘᴘᴏʀᴛ 」──</h2>
